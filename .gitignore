@@ -1,0 +1,6 @@
+*.uvgui.*
+.vscode
+.eide
+build
+list
+*.code-workspace
